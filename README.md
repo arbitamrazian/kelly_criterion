@@ -1,0 +1,2 @@
+# kelly_criterion
+rest
